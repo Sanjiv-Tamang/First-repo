@@ -1,3 +1,3 @@
 # First-repo
 This is my first Git Repository.
-Author -Sanjiv Tamang
+Author -(Sanjiv Tamang) urff Pemba
